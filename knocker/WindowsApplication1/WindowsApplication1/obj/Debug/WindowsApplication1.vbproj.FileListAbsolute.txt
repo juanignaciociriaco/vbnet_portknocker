@@ -1,0 +1,15 @@
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\jciriaco\Documents\Visual Studio 2015\Projects\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\git\vbnet_portknocker\knocker\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\git\vbnet_portknocker\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\git\vbnet_portknocker\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\git\vbnet_portknocker\knocker\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
