@@ -28,3 +28,6 @@ Once you´ve cloned this repo and read the code you can easily know that 3 actio
 ## Authors
 
 * **Juan Ignacio Ciriaco** - *Initial work* - [juanignaciociriaco](https://github.com/juanignaciociriaco)
+
+## License
+See the LICENSE file for license rights and limitations (MIT).
